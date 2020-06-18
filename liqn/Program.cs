@@ -30,7 +30,7 @@ namespace liqn
             B b = new B();
             b.fun();
             int a = new int();
-            Console.WriteLine(a);
+            Console.WriteLine(b);
         }
     }
 }
